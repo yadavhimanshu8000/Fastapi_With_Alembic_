@@ -1,4 +1,5 @@
 .env
-Include
-Lib
-Scripts
+Include/
+Lib/
+Scripts/
+
